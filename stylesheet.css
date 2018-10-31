@@ -1,0 +1,12 @@
+.jumbotron {
+    background-image:url(https://upload.wikimedia.org/wikipedia/commons/5/5c/Total_internal_reflection_of_Chelonia_mydas.jpg);
+    background-size: cover;
+    height:700px
+}
+#aboutme {
+    text-align: center
+}
+#work {
+    text-align:center;
+     
+}
